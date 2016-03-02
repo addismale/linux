@@ -1,3 +1,8 @@
-            linux密令常用大全
+                           linux密令常用大全
 
           mv dir1 new_dir 重命名/移动一个目录
+          cd home 进入home目录
+          cd .. 返回上一级目录
+          cd ../..返回上两级目录
+          cd 进入个人主目录
+
